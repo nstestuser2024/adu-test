@@ -1,4 +1,3 @@
-# adu-test
 # Fallout Report
 
 ## Setup
