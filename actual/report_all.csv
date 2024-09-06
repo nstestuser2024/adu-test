@@ -1,0 +1,20 @@
+debug,project_id,status,follow_up
+Out-Of-Range,1,Not Viable,1
+Approved Project,3,Future Project,3
+Not Viable,6,Not Viable,6
+Not Viable,8,Not Viable,8
+Approved,9,Approved,9
+Unexpected Outcome,11,Future Project,11
+Work-In-Process,13,Work-In-Process,13
+Out-Of-Range,15,Approved,15
+Unexpected Outcome,19,Future Project,19
+Future Project,20,Not Sold,
+Future Project,12,Not Sold,
+Approved Project,10,Not Sold,
+Unexpected Outcome,2,Not Sold,
+Not Sold,5,Not Sold,
+Approved Project,16,Not Sold,
+Future Project,4,Not Sold,
+Future Project,22,Not Sold,
+Not Sold,14,Not Sold,
+Unexpected Outcome,7,Not Sold,

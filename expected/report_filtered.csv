@@ -1,0 +1,14 @@
+debug,project_id,status,follow_up
+Unexpected Outcome,2,Not Sold,
+Approved Project,3,Not Sold,
+Not Sold,5,Not Sold,
+Not Viable,6,Not Viable,6
+Unexpected Outcome,7,Not Sold,
+Not Viable,8,Not Viable,8
+Approved,9,Approved,9
+Approved Project,10,Not Sold,
+Unexpected Outcome,11,Not Sold,
+Work-In-Process,13,Work-In-Process,13
+Not Sold,14,Not Sold,
+Approved Project,16,Not Sold,
+Unexpected Outcome,19,Not Sold,

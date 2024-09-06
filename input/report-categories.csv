@@ -1,0 +1,13 @@
+category_name,category_included,category_description
+Out-Of-Bounds,false,The project did not exist in the specified time period
+Out-Of-Range,false,The project began outside of the specified time period
+Future Project,false,The project's start date is after today's date
+Current Project,false,The project is presently being worked on
+Approved Project,false,The project was approved and thus is not considered as having 'fallen out'
+Not Sold,true,This not approved project does not have a follow-up project pointing to it
+Sold,true,A follow-up project exists whose start date is in the future
+Work-In-Process,true,The follow-up project has started but not ended
+Approved,true,The follow-up project has been approved
+Not Approved,true,The follow-up project was not approved but was viable
+Not Viable,true,The follow-up project was not viable
+Unexpected Outcome,true,Unexpected stuff falls through to the report
